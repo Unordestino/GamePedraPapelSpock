@@ -1,0 +1,16 @@
+C:\Users\David\source\repos\Cursos4\PedraPapel\bin\Debug\net5.0\PedraPapel.exe
+C:\Users\David\source\repos\Cursos4\PedraPapel\bin\Debug\net5.0\PedraPapel.deps.json
+C:\Users\David\source\repos\Cursos4\PedraPapel\bin\Debug\net5.0\PedraPapel.runtimeconfig.json
+C:\Users\David\source\repos\Cursos4\PedraPapel\bin\Debug\net5.0\PedraPapel.runtimeconfig.dev.json
+C:\Users\David\source\repos\Cursos4\PedraPapel\bin\Debug\net5.0\PedraPapel.dll
+C:\Users\David\source\repos\Cursos4\PedraPapel\bin\Debug\net5.0\ref\PedraPapel.dll
+C:\Users\David\source\repos\Cursos4\PedraPapel\bin\Debug\net5.0\PedraPapel.pdb
+C:\Users\David\source\repos\Cursos4\PedraPapel\obj\Debug\net5.0\PedraPapel.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\Cursos4\PedraPapel\obj\Debug\net5.0\PedraPapel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\Cursos4\PedraPapel\obj\Debug\net5.0\PedraPapel.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\Cursos4\PedraPapel\obj\Debug\net5.0\PedraPapel.AssemblyInfo.cs
+C:\Users\David\source\repos\Cursos4\PedraPapel\obj\Debug\net5.0\PedraPapel.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Cursos4\PedraPapel\obj\Debug\net5.0\PedraPapel.dll
+C:\Users\David\source\repos\Cursos4\PedraPapel\obj\Debug\net5.0\ref\PedraPapel.dll
+C:\Users\David\source\repos\Cursos4\PedraPapel\obj\Debug\net5.0\PedraPapel.pdb
+C:\Users\David\source\repos\Cursos4\PedraPapel\obj\Debug\net5.0\PedraPapel.genruntimeconfig.cache
